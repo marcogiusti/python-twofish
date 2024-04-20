@@ -1,4 +1,7 @@
+include stubs/*pyi
+include twofish-0.3/twofish.c
 include twofish-0.3/twofish.h
-include README.rst
-include tox.ini
 include LICENSE
+include README.rst
+include pyproject.toml
+include tox.ini

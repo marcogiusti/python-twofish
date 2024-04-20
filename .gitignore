@@ -36,3 +36,8 @@ nosetests.xml
 .pydevproject
 
 MANIFEST
+
+.*.sw?
+*.o
+/.venv/
+_twofish_cffi.c
